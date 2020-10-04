@@ -67,4 +67,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-In order to use this messenger click here: https://facebook-messenger-clone-dc989.web.app/
+### In order to use this messenger
+click here: https://facebook-messenger-clone-dc989.web.app/
